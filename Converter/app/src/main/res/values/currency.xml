@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency">
+        <item>Доллар США</item>
+        <item>Евро</item>
+        <item>Рубли</item>
+    </string-array>
+    <string-array name="currencyOfData">
+        <item>Доллар США</item>
+        <item>Евро</item>
+    </string-array>
+</resources>
